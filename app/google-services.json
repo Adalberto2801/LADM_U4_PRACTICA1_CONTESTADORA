@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004311620988",
+    "project_id": "u4practicap1-autocontestadora",
+    "storage_bucket": "u4practicap1-autocontestadora.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004311620988:android:23539d2a09286dc59508f9",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.lamd_u4_prctica1_autocontestador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004311620988-33cqrua3gtkm7v8houbnagepqd23be11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ8hlRFK8i3wuJ66DpdoWEJP2vDMtnu6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004311620988-33cqrua3gtkm7v8houbnagepqd23be11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
